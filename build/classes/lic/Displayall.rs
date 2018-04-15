@@ -1,0 +1,2 @@
+lic.mytable
+lic.Displayall
